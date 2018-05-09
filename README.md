@@ -1,6 +1,6 @@
 # ByteCode_Creator
 A proof of concept for an external entity creator that allows end users to create custom game objects in a GUI app.
-Inspired by an article from Rob Nystrom on his site: http://gameprogrammingpatterns.com/bytecode.html
+Inspired by an article from Robert Nystrom on his site: http://gameprogrammingpatterns.com/bytecode.html
 
 Currently only meant to run on Windows 32bit.
 
